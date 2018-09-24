@@ -28,7 +28,7 @@ a,button{
 }
 
 main,footer{
-	position:fixed;
+	position:absolute;
 	background-color:#fff;
 	color:#000;
 	display:flex;
