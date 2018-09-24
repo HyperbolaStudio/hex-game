@@ -65,3 +65,16 @@ button{
 footer>*{
 	margin:4px;
 }
+
+#answer{
+	width:80%;
+	max-width:320px;
+	height:32px;
+	border:none;
+	background:#000;
+	color:#fff;
+}
+
+#middle>img{
+	height:48px;
+}
