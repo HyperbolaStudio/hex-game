@@ -1,4 +1,7 @@
 var path=location.pathname;
+if(path=="/"){
+	location.pathname="/index.html";
+}
 var filename=path.split("/")[path.split("/").length-1];
 var level_id=filename.split(".")[0];
 function getCookie(cname){
