@@ -12,3 +12,9 @@ $("#tips").click(function(){
 $("#next").click(function(){
 	location.pathname="/game/"+next+".html";
 });
+$("#continue").click(function(){
+	location.pathname="/game/"+next+".html";
+});
+$("#restart").click(function(){
+	location.pathname="/game/1hfks.html";
+});
